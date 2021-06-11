@@ -12,7 +12,7 @@ A simple and conventionnal project structure easy to use.
 ### INSTALLATION
 
 ```
-git clone https://github.com/jcchrrr/lavomatix front
+git clone https://github.com/BaptCout/lavomatix.git front
 cd front
 rm -rf .git
 npm install
